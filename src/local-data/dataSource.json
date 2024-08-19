@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1723898014981,
+    "name": "Super PC",
+    "address": "Москва, Улица Ленина, 123",
+    "mobile": "+7 (495) 123-45-67",
+    "website": "https://example.com",
+    "employees": [
+      {"key": "1-1", "name": "Алексей Васильев", "position": "Системный администратор", "department": "Отдел ИТ", "employee_id": 1643723400000, "organization_id": 1723898014981},
+      {"key": "1-2", "name": "Екатерина Ивановна", "position": "Консультант", "department": "Отдел консалтинга", "employee_id": 1643723400001, "organization_id": 1723898014981}
+    ],
+    "key": 1
+  },
+  {
+    "id": 1722393214651,
+    "name": "IT Solutions",
+    "address": "Санкт-Петербург, Невский проспект, 456",
+    "mobile": "+7 (812) 901-23-45",
+    "website": "https://itsolutions.ru",
+    "employees": [],
+    "key": 2
+  },
+  {
+    "id": 172232980149823,
+    "name": "SoftLine",
+    "address": "Казань, Улица Пушкина, 789",
+    "mobile": "+7 (843) 123-45-67",
+    "website": "https://softline.ru",
+    "employees": [
+      {"key": "3-1", "name": "Дмитрий Сергеевич", "position": "Разработчик", "department": "Отдел разработки", "employee_id": 1643723400002, "organization_id": 172232980149823},
+      {"key": "3-2", "name": "Анастасия Алексеева", "position": "Менеджер по продажам", "department": "Отдел продаж", "employee_id": 1643723400003, "organization_id": 172232980149823},
+      {"key": "3-3", "name": "Сергей Иванов", "position": "Системный администратор", "department": "Отдел ИТ", "employee_id": 1643723400004, "organization_id": 172232980149823},
+      {"key": "3-4", "name": "Елена Михайлова", "position": "Консультант", "department": "Отдел консалтинга", "employee_id": 1643723400005, "organization_id": 172232980149823},
+      {"key": "3-5", "name": "Алексей Сидоров", "position": "Разработчик", "department": "Отдел разработки", "employee_id": 1643723400006, "organization_id": 172232980149823},
+      {"key": "3-6", "name": "Ольга Сергеева", "position": "Дизайнер", "department": "Отдел дизайна", "employee_id": 1643723400007, "organization_id": 172232980149823},
+      {"key": "3-7", "name": "Иван Васильев", "position": "Разработчик", "department": "Отдел разработки", "employee_id": 1643723400008, "organization_id": 172232980149823}
+    ],
+    "key": 3
+  },
+  {
+    "id": 11233898014981,
+    "name": "TechCorp",
+    "address": "Новосибирск, Улица Ленина, 901",
+    "mobile": "+7 (383) 123-45-67",
+    "website": "https://techcorp.ru",
+    "employees": [
+      {"key": "4-1", "name": "Сергей Петров", "position": "Системный администратор", "department": "Отдел ИТ", "employee_id": 1643723400009, "organization_id": 11233898014981},
+      {"key": "4-2", "name": "Анастасия Михайлова", "position": "Менеджер по маркетингу", "department": "Отдел маркетинга", "employee_id": 1643723400010, "organization_id": 11233898014981},
+      {"key": "4-3", "name": "Иван Сидоров", "position": "Разработчик", "department": "Отдел разработки", "employee_id": 1643723400011, "organization_id": 11233898014981},
+      {"key": "4-4", "name": "Екатерина Ивановна", "position": "Консультант", "department": "Отдел консалтинга", "employee_id": 1643723400012, "organization_id": 11233898014981},
+      {"key": "4-5", "name": "Алексей Васильев", "position": "Разработчик", "department": "Отдел разработки", "employee_id": 1643723400013, "organization_id": 11233898014981}
+    ],
+    "key": 4
+  },
+  {
+    "id": 172389823421981,
+    "name": "IT Pro",
+    "address": "Екатеринбург, Улица Пушкина, 234",
+    "mobile": "+7 (343) 123-45-67",
+    "website": "https://itpro.ru",
+    "employees": [
+      {"key": "5-1", "name": "Иван Иванов", "position": "Разработчик", "department": "Отдел разработки", "employee_id": 1643723400014, "organization_id": 172389823421981},
+      {"key": "5-2", "name": "Мария Петрова", "position": "Консультант", "department": "Отдел консалтинга", "employee_id": 1643723400015, "organization_id": 172389823421981},
+      {"key": "5-3", "name": "Алексей Смирнов", "position": "Системный администратор", "department": "Отдел ИТ", "employee_id": 1643723400016, "organization_id": 172389823421981},
+      { "key": "5-4", "name": "Дмитрий Иванов", "position": "Разработчик", "department": "Отдел разработки", "employee_id": 1643723400018, "organization_id": 172389823421981},
+      {"key": "5-5", "name": "Ольга Сергеева", "position": "Дизайнер", "department": "Отдел дизайна", "employee_id": 1643723400019, "organization_id": 172389823421981}
+    ],
+    "key": 5
+  }
+]
